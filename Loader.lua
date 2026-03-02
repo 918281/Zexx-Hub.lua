@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://s.pufus.win/ZYoJFn"))()
+loadstring(game:HttpGet("https://s.pufus.win/gXTdZb"))()
